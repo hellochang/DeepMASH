@@ -11,4 +11,3 @@ tensorflow-io-gcs-filesystem==0.30.0
 plotly.express==0.4.1
 tf_slim==1.1.0
 numpy
-streamlit
